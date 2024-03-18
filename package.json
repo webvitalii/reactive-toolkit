@@ -1,0 +1,29 @@
+{
+  "name": "reactive-toolkit",
+  "version": "1.0.2",
+  "description": "React Toolkit with custom hooks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/webvitalii/reactive-toolkit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webvitalii/reactive-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webvitalii/reactive-toolkit/issues"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "hooks",
+    "react-hooks",
+    "fetch"
+  ],
+  "author": "webvitalii",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

@@ -1,0 +1,19 @@
+# Exclude development dependencies
+/node_modules/
+
+# Exclude package manager lock files
+package-lock.json
+yarn.lock
+
+# Exclude build files
+/build/
+/dist/
+
+# Exclude editor-specific files
+/.idea/
+/.vscode/
+/.sublime/
+
+# OS generated files
+.DS_Store
+Thumbs.db
